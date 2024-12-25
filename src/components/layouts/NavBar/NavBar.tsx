@@ -27,7 +27,6 @@ export default function NavBar() {
                     Learn
                 </div>
             </Link> 
-            <Button onClick={() => console.log('testClick')}>test</Button>
         </div>
 
         <div className="flex gap-3">
