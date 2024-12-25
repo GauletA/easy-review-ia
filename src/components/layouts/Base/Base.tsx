@@ -1,7 +1,7 @@
 import { ReactNode, useEffect } from "react"
-import NavBar from "../NavBar/NavBar"
 import { themeAtom } from "@/hooks/atoms/useTheme"
 import { useAtom } from "jotai"
+import NavBar from "../NavBar"
 
 type Props = {
     children: ReactNode

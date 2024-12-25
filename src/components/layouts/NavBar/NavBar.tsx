@@ -1,4 +1,3 @@
-import Button from "@/components/ui/Button"
 import Tabs from "@/components/ui/Tabs"
 import { themeAtom } from "@/hooks/atoms/useTheme"
 import { Link } from "@tanstack/react-router"
