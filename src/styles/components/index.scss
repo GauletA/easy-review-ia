@@ -1,0 +1,10 @@
+@layer components {
+
+	.hover_button {
+		@apply px-3 py-1 rounded-2xl border border-transparent transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-[#1E1F20]/30;
+	}
+
+	.card {
+		@apply rounded-2xl dark:bg-[#282A2C] bg-[#F1F3F4]
+	}
+}
